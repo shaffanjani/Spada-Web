@@ -1,0 +1,19 @@
+/* Navbar warna Navy */
+.custom-navbar {
+  background-color: #001f3f !important; /* Warna navy */
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+  color: white !important;
+  font-weight: 500;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #dcdcdc !important;
+}
+
+/* Styling tambahan */
+body {
+  background-color: #f8f9fa;
+}
